@@ -1,0 +1,11 @@
+#play{
+    background-image:linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ), url("https://eloutput.com/app/uploads-eloutput.com/2020/06/ElOutput-072.jpg");
+    background-repeat:no-repeat;
+	background-position: center center;
+	background-size: cover;
+    background-attachment: fixed;
+    font-stretch: condensed;
+}
